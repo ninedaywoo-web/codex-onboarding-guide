@@ -1,0 +1,259 @@
+{
+  "source_file": "原版图解指南.pdf",
+  "sha256": "25f8c065f465681c1abf1dec4d8e4893b18a0d2c7b274b26d7bb593d40ea47c4",
+  "page_count": 23,
+  "embedded_image_count": 13,
+  "link_count": 52,
+  "image_policy": "仅由已脱敏最终 PDF 渲染；未使用维护原图。",
+  "pages": [
+    {
+      "page": 1,
+      "title": "01 先看这条准备路线",
+      "rendered_image": "assets/pages/page-01.png",
+      "embedded_images": 0,
+      "steps": [
+        "network",
+        "ai-entry"
+      ]
+    },
+    {
+      "page": 2,
+      "title": "02 准备美区 Apple ID",
+      "rendered_image": "assets/pages/page-02.png",
+      "embedded_images": 0,
+      "steps": [
+        "apple-existing",
+        "apple-buy"
+      ]
+    },
+    {
+      "page": 3,
+      "title": "03 自行注册：姓名、地区与邮箱",
+      "rendered_image": "assets/pages/page-03.png",
+      "embedded_images": 1,
+      "steps": [
+        "apple-create"
+      ]
+    },
+    {
+      "page": 4,
+      "title": "04 自行注册：手机号与地区核对",
+      "rendered_image": "assets/pages/page-04.png",
+      "embedded_images": 1,
+      "steps": [
+        "apple-verify"
+      ]
+    },
+    {
+      "page": 5,
+      "title": "05 自行注册：验证与首次登录",
+      "rendered_image": "assets/pages/page-05.png",
+      "embedded_images": 0,
+      "steps": [
+        "apple-first-use"
+      ]
+    },
+    {
+      "page": 6,
+      "title": "06 换 Apple ID：先点账户入口",
+      "rendered_image": "assets/pages/page-06.png",
+      "embedded_images": 1,
+      "steps": [
+        "apple-open-settings"
+      ]
+    },
+    {
+      "page": 7,
+      "title": "07 换 Apple ID：媒体与购买项目",
+      "rendered_image": "assets/pages/page-07.png",
+      "embedded_images": 1,
+      "steps": [
+        "apple-media"
+      ]
+    },
+    {
+      "page": 8,
+      "title": "08 换 Apple ID：退出商店再换号",
+      "rendered_image": "assets/pages/page-08.png",
+      "embedded_images": 1,
+      "steps": [
+        "apple-switch",
+        "apple-wait"
+      ]
+    },
+    {
+      "page": 9,
+      "title": "09 Google 账号：已有就复用",
+      "rendered_image": "assets/pages/page-09.png",
+      "embedded_images": 1,
+      "steps": [
+        "google-existing",
+        "google-register",
+        "google-buy",
+        "google-fields"
+      ]
+    },
+    {
+      "page": 10,
+      "title": "10 Google 两步验证码怎么用",
+      "rendered_image": "assets/pages/page-10.png",
+      "embedded_images": 1,
+      "steps": [
+        "auth-code"
+      ]
+    },
+    {
+      "page": 11,
+      "title": "11 不买 Google：用 Proton 免费邮箱",
+      "rendered_image": "assets/pages/page-11.png",
+      "embedded_images": 1,
+      "steps": [
+        "mail-existing",
+        "proton-free",
+        "proton-create"
+      ]
+    },
+    {
+      "page": 12,
+      "title": "12 手机下载并注册 ChatGPT",
+      "rendered_image": "assets/pages/page-12.png",
+      "embedded_images": 0,
+      "steps": [
+        "chatgpt-web",
+        "existing-chat",
+        "phone-download",
+        "phone-login"
+      ]
+    },
+    {
+      "page": 13,
+      "title": "13 如果弹出手机验证，再看这里",
+      "rendered_image": "assets/pages/page-13.png",
+      "embedded_images": 0,
+      "steps": [
+        "sms-code"
+      ]
+    },
+    {
+      "page": 14,
+      "title": "14 第三方购买礼品卡：找到商店",
+      "rendered_image": "assets/pages/page-14.png",
+      "embedded_images": 1,
+      "steps": [
+        "gift-shop"
+      ]
+    },
+    {
+      "page": 15,
+      "title": "15 直达链接：复制到备忘录打开",
+      "rendered_image": "assets/pages/page-15.png",
+      "embedded_images": 0,
+      "steps": [
+        "gift-link",
+        "gift-buy"
+      ]
+    },
+    {
+      "page": 16,
+      "title": "16 礼品卡怎么用：兑换到 Apple 余额",
+      "rendered_image": "assets/pages/page-16.png",
+      "embedded_images": 0,
+      "steps": [
+        "gift-copy"
+      ]
+    },
+    {
+      "page": 17,
+      "title": "17 礼品卡兑换：原教程完整图",
+      "rendered_image": "assets/pages/page-17.png",
+      "embedded_images": 1,
+      "steps": [
+        "gift-redeem"
+      ]
+    },
+    {
+      "page": 18,
+      "title": "18 礼品卡兑换：看这里",
+      "rendered_image": "assets/pages/page-18.png",
+      "embedded_images": 1,
+      "steps": [
+        "gift-current-ui"
+      ]
+    },
+    {
+      "page": 19,
+      "title": "19 手机订阅 ChatGPT Plus",
+      "rendered_image": "assets/pages/page-19.png",
+      "embedded_images": 0,
+      "steps": [
+        "plan-check",
+        "plus-review",
+        "plus-pay"
+      ]
+    },
+    {
+      "page": 20,
+      "title": "20 无法购买时：联系 Apple 支持",
+      "rendered_image": "assets/pages/page-20.png",
+      "embedded_images": 2,
+      "steps": []
+    },
+    {
+      "page": 21,
+      "title": "21 电脑安装，并登录 Codex",
+      "rendered_image": "assets/pages/page-21.png",
+      "embedded_images": 0,
+      "steps": [
+        "desktop-download",
+        "desktop-install-mac",
+        "desktop-install-win",
+        "desktop-login",
+        "computer-plugin",
+        "computer-permission",
+        "browser-connect"
+      ]
+    },
+    {
+      "page": 22,
+      "title": "22 准备好了，把项目交给 Codex",
+      "rendered_image": "assets/pages/page-22.png",
+      "embedded_images": 0,
+      "steps": [
+        "test-local-read",
+        "test-computer",
+        "same-account",
+        "handoff"
+      ]
+    },
+    {
+      "page": 23,
+      "title": "23 常用入口与资料",
+      "rendered_image": "assets/pages/page-23.png",
+      "embedded_images": 0,
+      "steps": []
+    }
+  ],
+  "new_content": [
+    "电脑浏览器先注册路线",
+    "Computer Use 插件与权限",
+    "浏览器连接（按工具需要）",
+    "本地资料与实际窗口操作验收"
+  ],
+  "missing_screenshots": [
+    "PDF 19 原本无订阅实拍图",
+    "PDF 21–22 原本无桌面安装／权限／操作实拍图；新增步骤明确标注文字补充"
+  ],
+  "verification": "本包验证资料完整性与本地引导逻辑；客户真实账号、订阅、AI 操作能力未代为验证。",
+  "error_case_pages": {
+    "email": 22,
+    "auth": 10,
+    "sms": 13,
+    "apple-payment": 20,
+    "entitlement": 19,
+    "permission": 21,
+    "unsupported": 21
+  },
+  "reference_only_pages": [
+    23
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "codex-onboarding-guide",
+  "version": "1.0.0",
+  "release_date": "2026-10-20",
+  "entry": "index.html",
+  "ai_entry": "AI_START.txt",
+  "steps": 44,
+  "source_pages": 23,
+  "source_sha256": "25f8c065f465681c1abf1dec4d8e4893b18a0d2c7b274b26d7bb593d40ea47c4"
+}

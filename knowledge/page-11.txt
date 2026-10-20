@@ -1,0 +1,29 @@
+CODEX 新手准备指南 / 手机订阅 · 电脑使用
+11 不买 Google：用 Proton 免费邮箱
+Proton Mail 提供邮箱；用它走 ChatGPT 的邮箱注册，不点“继续使用 Google”。
+客户阅读版 · 2026-10-20 · 页面与价格以实际显示为准
+11
+打开 Proton Mail 注册页，选择 Free／免费。只为收注册邮件，不需要买 Proton Mail Plus。
+Proton 官方帮助中的选套餐示例；页面变化时，找 Free／免费入口。
+1
+选择邮箱名，创建 Proton 密码
+完整邮箱通常以 @proton.me 或 @protonmail.com 结尾。这个密码是 Proton 邮箱密码，不必
+与 ChatGPT 密码相同。
+2
+完成页面要求的真人验证
+可能出现验证码、邮箱或手机验证，按实际可用选项完成；不要认为免费邮箱就一定不需要任何
+验证。
+3
+保存恢复资料，确认能收信
+保存 Recovery Kit／恢复资料，进入 Mail 收件箱。注册 ChatGPT 后，需要回来读取邮件验证码
+；Proton 账号本身不是 ChatGPT 账号。
+接下来怎么登录 ChatGPT
+第 12 页选择“邮箱注册”，填写完整 Proton 邮箱地址。以后手机和电脑都用这一套 ChatGPT 登
+录方式，别换成 Google 或 Apple 登录另建账号。
+资料：Proton 免费邮箱创建步骤、真人验证说明。
+
+
+页面原链接：
+https://account.proton.me/mail/signup
+https://proton.me/support/create-a-free-email-account-address
+https://proton.me/support/human-verification

@@ -1,0 +1,37 @@
+CODEX 新手准备指南 / 手机订阅 · 电脑使用
+09 Google 账号：已有就复用
+本教程的 Google 登录路线使用美区 Google 账号；已有账号也先确认是美区，购买时选择美区商品。
+客户阅读版 · 2026-10-20 · 页面与价格以实际显示为准
+09
+自己注册：完成后确认美区账号
+1
+打开 Google 注册入口
+accounts.google.com/signup → 创建账号 → 按实际页面选择个人用途。
+2
+填写资料，保存账号
+按页面填写姓名、生日、用户名和密码，完成实际要求的验证与地区核对。出现手机验证就看第
+13 页。确认能打开 Gmail、收到邮件，并按本教程准备美区 Google 账号。
+购买成品号：一定选美区 Google 账号
+购买成品美区 Google 账号：https://chuhai91.cc/
+补充购买网址：https://gmailbuy.com/。选商家明确标注“美区”的 Google 账号。一般会收到下面
+这样的一串交付资料，按红箭头看每一段的用途。
+① Google 账号
+② 密码
+③ 密保邮箱
+④ 2FA 密钥
+订单交付截图：灰条遮住个人资料，四个字段的位置按红箭头看。第 4 段太长换行时，下一行仍是这串密钥的后半部分。
+第 1 段：Google 账号，登录时填邮箱。
+第 2 段：登录密码。
+第 3 段：密保邮箱，页面要求核验时使用。
+第 4 段：2FA 密钥，就是后面那一大长串字母数字。
+第 4 段这串，就是要复制的 2FA 密钥
+它通常按四个字符一组显示，形如“XXXX XXXX XXXX XXXX …”。复制这一整串，到第 10 页的
+取码网站生成验证码，再把生成的数字填回 Google。
+Google 自行注册说明：Google 官方帮助。不想准备 Google，可直接走第 11 页 Proton 免费邮箱路线。
+
+
+页面原链接：
+https://accounts.google.com/signup
+https://chuhai91.cc/
+https://gmailbuy.com/
+https://support.google.com/accounts/answer/27441?hl=zh-Hans

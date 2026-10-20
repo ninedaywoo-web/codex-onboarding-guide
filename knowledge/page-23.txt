@@ -1,0 +1,50 @@
+CODEX 新手准备指南 / 手机订阅 · 电脑使用
+23 常用入口与资料
+网址后写明了用途，点击即可打开。商品和接码服务以当时页面为准。
+客户阅读版 · 2026-10-20 · 页面与价格以实际显示为准
+23
+账号与验证
+Apple 账号官网 ｜ Apple 创建账号说明
+Google 注册入口 ｜ Google 官方创建账号说明
+Proton Mail 免费邮箱注册 ｜ Proton 官方创建说明
+Proton 真人验证说明 ｜ 2FA 网页取码工具
+购买与充值
+https://chuhai91.cc/：购买成品美区 Apple ID、美区 Google 账号，也可查找接码说明。
+https://gmailbuy.com/：购买成品美区 Google 账号。
+https://xintaikeji.eu.org/：购买 Apple ID 的补充网址。
+Pockyt Shop 第三方礼品卡购买入口（支付宝）
+Apple 官方兑换步骤
+Apple 官方客服入口
+ChatGPT、Codex 与后续项目
+ChatGPT 官网 ｜ 官方 iPhone App
+官方套餐说明 ｜ 官方桌面快速入门
+桌面应用说明
+Claude 自动化配置项目
+本指南整理日期：2026-10-20。新 Apple ID 建议等待约两天，以及购买受限可能需人工支持的提醒，来自实际交付经验
+；不是平台保证或统一风控规则。具体账号权限、验证要求、内购价格和按钮名称，以您当时看到的页面为准。
+图片来源：第 03、04 页为原教程 Apple 账号注册图；第 06 至 08 页为实际换号截图；第 09、10 页为已脱敏账号交付图；
+第 11 页为 Proton 官方帮助配图；第 14、17 页为原教程礼品卡购买与兑换图；第 18 页为 Apple 官方兑换入口图；第 20
+页为原教程 Apple 支持图。个人资料已遮除。
+
+
+页面原链接：
+https://account.apple.com/
+https://support.apple.com/108647
+https://accounts.google.com/signup
+https://support.google.com/accounts/answer/27441?hl=zh-Hans
+https://account.proton.me/mail/signup
+https://proton.me/support/create-a-free-email-account-address
+https://proton.me/support/human-verification
+https://2fa.run/
+https://chuhai91.cc/
+https://gmailbuy.com/
+https://xintaikeji.eu.org/
+https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001165662428%26page%3Dpages%252Fredirect%252Fredirect%253FappId%253D2021003191605547%26enbsv%3D0.2.2507280946.43%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3DA6364F5A-E354-477C-A944-0B4A1390FC24%26shareBizType%3DH5App_XCX%26shareTimestamp%3D1772934191191
+https://support.apple.com/118242
+https://support.apple.com/contact
+https://chatgpt.com/
+https://apps.apple.com/us/app/chatgpt/id6448311069
+https://learn.chatgpt.com/docs/pricing
+https://learn.chatgpt.com/docs/quickstart
+https://learn.chatgpt.com/docs/app
+https://github.com/ninedaywoo-web/claude-setup-guide

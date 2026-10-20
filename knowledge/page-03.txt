@@ -1,0 +1,24 @@
+CODEX 新手准备指南 / 手机订阅 · 电脑使用
+03 自行注册：姓名、地区与邮箱
+在 Apple 网页创建账号。原教程配图通过 iCloud.com 的网页入口创建；account.apple.com 也提供创建入口。
+客户阅读版 · 2026-10-20 · 页面与价格以实际显示为准 03
+1 打开网页，点击创建 Apple 账户
+https://account.apple.com/ → “创建您的 Apple 账户”。原图展示的是 
+https://www.icloud.com/ → 登录 → Create Your Apple Account。这里是网页注册，不是在
+手机设置里更换 iCloud。
+原教程注册图：左侧红框是“创建账号”，右侧红框是国家／地区 United States。原图中的姓名和邮箱已遮除，填写您自己
+的资料。
+2 姓名、国家或地区、生日
+姓名／First Name、Last Name：填写您本人的姓名。
+国家或地区／Country or Region：本教程商店路线为美国／United States。
+生日／Birthday：填写真实生日，之后账号验证或找回可能用到。
+3 填写邮箱和密码
+邮箱／Email：填能正常收信、尚未用于 Apple 账户的完整邮箱，之后用它登录。
+密码／Password：按页面要求设置，并在确认密码里再填一次。Apple 密码和邮箱密码分别保存。
+填写完成后，继续下一页的手机号与验证步骤。
+账号资料由您自己保存
+记好 Apple 登录邮箱、Apple 密码和验证手机号。后面登录商店、恢复账号都可能需要。
+
+页面原链接：
+https://account.apple.com/
+https://www.icloud.com/

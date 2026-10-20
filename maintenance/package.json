@@ -1,0 +1,11 @@
+{
+  "name": "codex-ready-maintenance-checks",
+  "private": true,
+  "description": "维护者可选 DOM 检查依赖；客户无需安装。",
+  "scripts": {
+    "test": "node verify_logic.cjs && node verify_dom.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "29.1.1"
+  }
+}

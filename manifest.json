@@ -1,0 +1,345 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 83,
+      "sha256": "89f0bc297846c6d9dc031b34e54d3ef9b93456cdc997f03638f306fabfcf9ac3"
+    },
+    {
+      "path": "AI_START.txt",
+      "size": 7189,
+      "sha256": "30f293c3966dedfa14a41e24e4f28dbd236ae03b53df714c2ba373cb93deaf4f"
+    },
+    {
+      "path": "README.md",
+      "size": 4706,
+      "sha256": "3aea6ce2a9a1314edaa2c4b4947bd0207585c80b11061cd128e5c965cef95f38"
+    },
+    {
+      "path": "SKILL.md",
+      "size": 2005,
+      "sha256": "06b8d420748e596ca7bcafe56b5c0dfc2776458f7921cf7625a7b1a23770c30c"
+    },
+    {
+      "path": "app.js",
+      "size": 23815,
+      "sha256": "f9fda93647fcf68596d712bffa3d6e0d07b7e9f0355831f787a2d802f9cf79fc"
+    },
+    {
+      "path": "assets/pages/page-01.png",
+      "size": 243919,
+      "sha256": "ba49fef0998aeccac9fa4ec0892097d5bc386251bef1dfb2cfb3730793766b57"
+    },
+    {
+      "path": "assets/pages/page-02.png",
+      "size": 294410,
+      "sha256": "da33b74a2a3848740613d057087b938279731aba1c1112203c207844d94770bf"
+    },
+    {
+      "path": "assets/pages/page-03.png",
+      "size": 336509,
+      "sha256": "15401119bd2d17d75b186bb513156a76aae18663c1c51fbf269fa532fca335ca"
+    },
+    {
+      "path": "assets/pages/page-04.png",
+      "size": 385554,
+      "sha256": "3904a168e3a63657c9cb3ad71bbd44148576b2706665e397be96080223f7aa5e"
+    },
+    {
+      "path": "assets/pages/page-05.png",
+      "size": 332950,
+      "sha256": "acf6a31e7499fc5cad5f3a21b17a66b53de0bcc6da85d08c5defa972e813fb73"
+    },
+    {
+      "path": "assets/pages/page-06.png",
+      "size": 236572,
+      "sha256": "68b76aa8e359a8752fd1dac7cc26ca6015232dd967e6595e0540c1b408bea04b"
+    },
+    {
+      "path": "assets/pages/page-07.png",
+      "size": 266076,
+      "sha256": "e040c37e34a975b04b79601fd218427ac5e52e6ca040565a79d12c41e47cc7ff"
+    },
+    {
+      "path": "assets/pages/page-08.png",
+      "size": 313255,
+      "sha256": "2655b9c4b554beedc6d3725b649f22b504f2f56936ca0a6ea49208012d3b32b8"
+    },
+    {
+      "path": "assets/pages/page-09.png",
+      "size": 339960,
+      "sha256": "46e4abec0954bd91e49890adf20f4be9e1fe2fd05ad3de176d1d0852cca9d817"
+    },
+    {
+      "path": "assets/pages/page-10.png",
+      "size": 311731,
+      "sha256": "c858d0758594c1cdd879b2f576a0e47b32f5e3b8653d2c035b45e65e8c37c2d5"
+    },
+    {
+      "path": "assets/pages/page-11.png",
+      "size": 294632,
+      "sha256": "fb7809e9be3017fe93163277b8adcdb531eeba6d26880b16cf0cadafb49ad205"
+    },
+    {
+      "path": "assets/pages/page-12.png",
+      "size": 278993,
+      "sha256": "fae117d747842927aa5a3c7a56848eade957af7c2343b730648157d32a9b4e47"
+    },
+    {
+      "path": "assets/pages/page-13.png",
+      "size": 320520,
+      "sha256": "32a9999f0b2176de211bde45a3b70a9b97b053637575be42e386e148875cb75d"
+    },
+    {
+      "path": "assets/pages/page-14.png",
+      "size": 544007,
+      "sha256": "6cafb9dd22cb5e58a5219c2da57f70b12dd85952085a52feab8f21655bf18d8a"
+    },
+    {
+      "path": "assets/pages/page-15.png",
+      "size": 301208,
+      "sha256": "ad24a9aaeee14613184b9d1db816c238865c85635c2cdd4b2d525b62670d096b"
+    },
+    {
+      "path": "assets/pages/page-16.png",
+      "size": 292199,
+      "sha256": "b3de5c189d7cd86a2a75c00bfa6d641e74489ef077b8debfdd552bbf194369b0"
+    },
+    {
+      "path": "assets/pages/page-17.png",
+      "size": 409288,
+      "sha256": "9d4d3d442f3ffc37a56c2346ffc26fde04d4bd6478c2ceea70ace7dcac54ccb8"
+    },
+    {
+      "path": "assets/pages/page-18.png",
+      "size": 312456,
+      "sha256": "ba79a2e7b4391f26330d517edcb6fb976fefa7e71a75faa75c7382408444f3df"
+    },
+    {
+      "path": "assets/pages/page-19.png",
+      "size": 335868,
+      "sha256": "992772160a3ba6f22523118692afa19219f74092e5cf363d90da9dff4b34b6ef"
+    },
+    {
+      "path": "assets/pages/page-20.png",
+      "size": 372665,
+      "sha256": "674e988040cc66f9602e7be14812d722f1bab9ca09f6818a500ea6167170b57b"
+    },
+    {
+      "path": "assets/pages/page-21.png",
+      "size": 284916,
+      "sha256": "a2192502405c2536dda54b61c572b6816319a7910be45dff449dcb614207ea6e"
+    },
+    {
+      "path": "assets/pages/page-22.png",
+      "size": 286759,
+      "sha256": "7a53334d4b3338e8b74e25e90ad1c4e8ce9aa0ad5aa1862d9c7a9a4817b9a324"
+    },
+    {
+      "path": "assets/pages/page-23.png",
+      "size": 266867,
+      "sha256": "caf93dcb4ff7f01ddc2fadd74c097e79968c4b259f3d0b92ecfd41ab2ca2860d"
+    },
+    {
+      "path": "core.js",
+      "size": 5187,
+      "sha256": "8770d23485e310fe2c01996e2d7d6e318c12368d3b0b63b9d81dfcb3b60e044e"
+    },
+    {
+      "path": "data.js",
+      "size": 65133,
+      "sha256": "a565daa36888f76f9c8892265b56888c529eafb3f563e332ec80202c579beff1"
+    },
+    {
+      "path": "index.html",
+      "size": 9866,
+      "sha256": "2df5a4eaa6a58b3d5558edea6f70dde4636696493e9bff94b4b86446b4f2bb15"
+    },
+    {
+      "path": "knowledge/full-guide.txt",
+      "size": 59156,
+      "sha256": "39bc2479a2c0e3f9b36e74d21af7ca0c02d704b5efc3cd090cabf15969a6654f"
+    },
+    {
+      "path": "knowledge/page-01.txt",
+      "size": 1360,
+      "sha256": "60b70979fed8465a17eac62c6ce4baa046c6fb022fccddce41b81f9ae00ed003"
+    },
+    {
+      "path": "knowledge/page-02.txt",
+      "size": 1785,
+      "sha256": "0ba749810022f9436def2d0de98fe1beebd665b97138e9306f09e6a45c0ab583"
+    },
+    {
+      "path": "knowledge/page-03.txt",
+      "size": 1534,
+      "sha256": "6a24f32501092631bf795423563673d0d9e3c3e9d30ce94e0edbb8f2f079e6af"
+    },
+    {
+      "path": "knowledge/page-04.txt",
+      "size": 1590,
+      "sha256": "ff4ec670c07da9a4a60f9348d3fb757e92565a0bc6fee942e4483596b6052ae0"
+    },
+    {
+      "path": "knowledge/page-05.txt",
+      "size": 1899,
+      "sha256": "9604d270a1b1c87c68c481575177650278425b60d2e7c27f14254e26d1d7f0db"
+    },
+    {
+      "path": "knowledge/page-06.txt",
+      "size": 752,
+      "sha256": "df13abdb11598ebd62d0f719f1730191aeebc3bc39550a31d7b471043d641b98"
+    },
+    {
+      "path": "knowledge/page-07.txt",
+      "size": 635,
+      "sha256": "75561c289d0db39a5884b5adf7e5b94fd2657d5c3053a62ae1fd5b32dd6abc3b"
+    },
+    {
+      "path": "knowledge/page-08.txt",
+      "size": 1302,
+      "sha256": "fc5bcf848f8fab447a596c992423bc2683a2c524f30c10828e0926cf63ef4fe2"
+    },
+    {
+      "path": "knowledge/page-09.txt",
+      "size": 1928,
+      "sha256": "cf4442698de316ab9b4dcc1837792f99e3a31c665395b6faf5392a0b3466033c"
+    },
+    {
+      "path": "knowledge/page-10.txt",
+      "size": 1282,
+      "sha256": "07fce47660b58b1355a792b1642011d433a1a5df6196bcf495eef51574759e4d"
+    },
+    {
+      "path": "knowledge/page-11.txt",
+      "size": 1462,
+      "sha256": "cbd1b22c3f1295423340cc7540341562626d488e26137619e3c5c4c6b6172f19"
+    },
+    {
+      "path": "knowledge/page-12.txt",
+      "size": 1565,
+      "sha256": "43a07a47d42405dc7b847cd27e15c97fd51b0741437da89a350c2e0ab140f28d"
+    },
+    {
+      "path": "knowledge/page-13.txt",
+      "size": 1841,
+      "sha256": "2bea6c72fe878094f8a9fa9e8354fb5932be48625d10dafae6dbd3424538a31e"
+    },
+    {
+      "path": "knowledge/page-14.txt",
+      "size": 1331,
+      "sha256": "a447f922c4147ea39f0576d07e9c88dec3c187d0c9512cff0e19ced837dff68d"
+    },
+    {
+      "path": "knowledge/page-15.txt",
+      "size": 2206,
+      "sha256": "5fd9522d597814aabd9fcd430e72b398b6f8e235015ba2c5a868324985eaa4aa"
+    },
+    {
+      "path": "knowledge/page-16.txt",
+      "size": 1631,
+      "sha256": "b56c904e7e26d5d506994cff2faa3917ba35800d56f6068a7dbad66dd43cf5e1"
+    },
+    {
+      "path": "knowledge/page-17.txt",
+      "size": 998,
+      "sha256": "ab7db89d83b19d9783d6d85b0b763f400ff319da20734c38313a18516d7269f0"
+    },
+    {
+      "path": "knowledge/page-18.txt",
+      "size": 810,
+      "sha256": "35522e8d9b1f8901a46df6660fd2a595c66e1fd38f86aa73549af811aaedb26b"
+    },
+    {
+      "path": "knowledge/page-19.txt",
+      "size": 2031,
+      "sha256": "abd03b2c0c1831f2cf2f0859cf6a88f00813e7b89f507dd8f4e8e6b3b9f7c294"
+    },
+    {
+      "path": "knowledge/page-20.txt",
+      "size": 1180,
+      "sha256": "b84307e871c05778ec14d3e5e9b7e267459dad8ab85403a5b1df6eec80aea863"
+    },
+    {
+      "path": "knowledge/page-21.txt",
+      "size": 1640,
+      "sha256": "07f00a608ec97d0ab3661fe3c609229bc8f3bcaef97ce8980b050b9888627a1f"
+    },
+    {
+      "path": "knowledge/page-22.txt",
+      "size": 1639,
+      "sha256": "fa9021d94b92b389bc68b906f4d22aeded2f99c6b26176d47e11b39c07eb2027"
+    },
+    {
+      "path": "knowledge/page-23.txt",
+      "size": 2773,
+      "sha256": "6b31632a79d02b2508082bcfd362761df24e8f9ad92c31f8bd22806a303eda1e"
+    },
+    {
+      "path": "knowledge/source-map.json",
+      "size": 6425,
+      "sha256": "aaac2ed03cd6660c4ecf503d0dac3abca130b55a0372aa4cf67741b07c28f192"
+    },
+    {
+      "path": "knowledge/steps.json",
+      "size": 71746,
+      "sha256": "afbe9cff0169ef004e449ca98806f5fefd0e4e07fd4a6886cec4f5cf374d17be"
+    },
+    {
+      "path": "knowledge/原版正文.txt",
+      "size": 29610,
+      "sha256": "d71bada1991b19be53f074de643031d31243575e59e141eee0d8355c3199ebfb"
+    },
+    {
+      "path": "maintenance/package.json",
+      "size": 271,
+      "sha256": "3c53d166d030f4a1371fa8c7b521d1f9445b30000547f7405b8bbcfc9faf138a"
+    },
+    {
+      "path": "maintenance/verify_dom.cjs",
+      "size": 6458,
+      "sha256": "e7d4cd6a060467cfec4005319b24fa6bd20c46e907c310fed7bb4b96022a1b97"
+    },
+    {
+      "path": "maintenance/verify_logic.cjs",
+      "size": 4699,
+      "sha256": "0a583bb92fdf4092af0a575c9b6b813deb2a4fd96f061ee411cefea2a4de5f9c"
+    },
+    {
+      "path": "maintenance/verify_release.py",
+      "size": 2442,
+      "sha256": "32379188b34d673c89c1508209f49d5cf5af8675dbb82badef8059e052fc00d8"
+    },
+    {
+      "path": "style.css",
+      "size": 10807,
+      "sha256": "bc00399fb28ebfa417dd704e52d17950c79cfd5b5cbce2dd6953b40088f6f4d5"
+    },
+    {
+      "path": "test-kit/read-me.txt",
+      "size": 157,
+      "sha256": "2aa5c9ac3846b604d980c9bc93e55b58081d6be2880319a01677b4ff14aa5321"
+    },
+    {
+      "path": "version.json",
+      "size": 272,
+      "sha256": "f52c83495243bf6c072a378884049b0c3438881de3a314af38364660a85ac3c5"
+    },
+    {
+      "path": "原版图解指南.pdf",
+      "size": 6772621,
+      "sha256": "25f8c065f465681c1abf1dec4d8e4893b18a0d2c7b274b26d7bb593d40ea47c4"
+    },
+    {
+      "path": "打开方式.txt",
+      "size": 3435,
+      "sha256": "137248f31d34c06571cab9b7a08d58d7795567c6dc0641fabe54c00f461aeb2f"
+    },
+    {
+      "path": "验证记录.json",
+      "size": 3147,
+      "sha256": "c22b8a632c720d0a6c479371693a7523795cce4fc6f5312a84b3562f8a021d40"
+    }
+  ]
+}

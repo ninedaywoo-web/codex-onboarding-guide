@@ -1,0 +1,33 @@
+CODEX 新手准备指南 / 手机订阅 · 电脑使用
+15 直达链接：复制到备忘录打开
+找不到支付宝里的入口时，使用下面的链接；它打开的是第三方礼品卡购买入口。
+客户阅读版 · 2026-10-20 · 页面与价格以实际显示为准
+15
+1
+先试点这里直接打开
+【点此打开 Pockyt Shop 礼品卡购买入口】
+手机按提示唤起支付宝。打不开时，用下面的复制方法。
+2
+复制框内的整条网址
+长按选中下方框内从 https:// 开始的全部网址，选择“复制”。打开 iPhone“备忘录”，新建一
+条笔记，把网址粘贴进去，再点粘贴后的链接，按提示打开支付宝。
+复制区域：只复制下面这一整条网址
+https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3
+D2021001165662428%26page%3Dpages%252Fredirect%252Fredirect%253FappId%253D2021003191
+605547%26enbsv%3D0.2.2507280946.43%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChin
+fo%3Dch_share__chsub_CopyLink%26apshareid%3DA6364F5A-E354-477C-A944-0B4A1390FC24%26
+shareBizType%3DH5App_XCX%26shareTimestamp%3D1772934191191
+3
+选择美国区 Apple 礼品卡并付款
+在小程序确认地区为美国，选择 Apple Gift Card US 或 App Store & iTunes USA。核对适用地区、
+面额、人民币实付金额和售后说明，再用支付宝付款。面额按 ChatGPT App 内实际月费、税费
+与已有余额计算。
+4
+去订单里取卡密
+付款后打开小程序“订单”，进入刚买的订单，找到卡密／兑换码，复制完整代码。拿到卡密后
+，按下一页到 App Store 兑换；这时还没有开通 ChatGPT 会员。
+若链接无法唤起或商品缺货，回上一页用支付宝内入口查找；订单未付款前先核对当前库存。
+
+
+页面原链接：
+https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021001165662428%26page%3Dpages%252Fredirect%252Fredirect%253FappId%253D2021003191605547%26enbsv%3D0.2.2507280946.43%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3DA6364F5A-E354-477C-A944-0B4A1390FC24%26shareBizType%3DH5App_XCX%26shareTimestamp%3D1772934191191
